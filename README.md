@@ -1,17 +1,16 @@
 ### Hi there 👋
-#### I'm Laura López
 
 Welcome to my repository! 
 
 I'm a telecommunications Engineer and I'm currently learning data science.
 
-- <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data (Blog)</a> 📑
+📑 <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data (Blog)</a> 
 
-- <a href="https://www.linkedin.com/in/lauralpezb/">LinkedIn</a> 💼
+💼 <a href="https://www.linkedin.com/in/lauralpezb/">LinkedIn</a> 
 
-- <a href="https://twitter.com/LauraLpezB">@lauralpezb</a> 🐤
+🐤 <a href="https://twitter.com/LauraLpezB">@lauralpezb</a> 
 
-- <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 📷
+📷 <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
 
 
 <!--
