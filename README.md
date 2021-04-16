@@ -13,8 +13,8 @@ I'm a telecommunications Engineer and I'm currently learning data science.
 - 📷 <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
 
 Talks 🎙️
-- <a href="https://open.spotify.com/episode/0Q6EHswdn094pfoWcwiqHC?si=WgeiqOhqSE6efIJ8crMWwg"> ¿Cómo motivarse para ser Data Science? </a> 
-- <a href="https://youtu.be/65TZ7MtD5lI?t=1897"> Encuentro de Becados - Toolkit Python </a> 
+- EnPixeles: <a href="https://open.spotify.com/episode/0Q6EHswdn094pfoWcwiqHC?si=WgeiqOhqSE6efIJ8crMWwg"> ¿Cómo motivarse para ser Data Science? </a> 
+- Data Science Fem: <a href="https://youtu.be/65TZ7MtD5lI?t=1903"> Encuentro de Becados - Toolkit Python </a> 
 
 
 <!--
