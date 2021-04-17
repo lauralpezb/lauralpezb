@@ -1,7 +1,6 @@
-![Header]
-(https://github.com/lauralpezb/lauralpezb/blob/main/Banner%20GitHub.png "Header")
+![Header](https://github.com/lauralpezb/lauralpezb/blob/main/Banner%20GitHub.png "Header")
 
-### Hi there 👋
+## Hi there 👋
 
 Welcome to my repository! 
 
@@ -12,14 +11,15 @@ I'm a telecommunications Engineer and I'm currently learning data science.
 - 🐤 <a href="https://twitter.com/LauraLpezB">@lauralpezb</a> 
 - 📷 <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
 
-My Skills 📑
+
+### My Skills 📑
 - Python
 - R
 - SQL
 - Power BI / Tableau / Google Data Studio
 
 
-Talks 🎙️
+### Talks 🎙️
 - EnPixeles: <a href="https://open.spotify.com/episode/0Q6EHswdn094pfoWcwiqHC?si=WgeiqOhqSE6efIJ8crMWwg"> ¿Cómo motivarse para ser Data Science? </a> 
 - Data Science Fem: <a href="https://youtu.be/65TZ7MtD5lI?t=1903"> Encuentro de Becados - Toolkit Python </a> 
 
