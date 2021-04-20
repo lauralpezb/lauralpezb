@@ -6,10 +6,8 @@ Welcome to my repository!
 
 I'm a telecommunications Engineer and I'm currently learning data science.
 
-- 📑 <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data (Blog)</a> 
-- 💼 <a href="https://www.linkedin.com/in/lauralpezb/">LinkedIn</a> 
-- 🐤 <a href="https://twitter.com/LauraLpezB">@lauralpezb</a> 
-- 📷 <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
+- 📑 I have a blog where I write about DS, basics and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data </a> 
+- 📷 I like photography, here you can find some <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
 
 
 ### My Skills 📑
@@ -20,9 +18,9 @@ I'm a telecommunications Engineer and I'm currently learning data science.
 
 
 ### Talks 🎙️
+- EnPixeles: <a href="https://open.spotify.com/episode/3ukBZHw0i74yKmWb4JWrbq?si=MANC1RKcS3SbD2lcyeXsyw"> Panel | Lo Bueno, lo Malo y lo Feo del Data Science e IA </a> 
 - EnPixeles: <a href="https://open.spotify.com/episode/0Q6EHswdn094pfoWcwiqHC?si=WgeiqOhqSE6efIJ8crMWwg"> ¿Cómo motivarse para ser Data Science? </a> 
 - Data Science Fem: <a href="https://youtu.be/65TZ7MtD5lI?t=1903"> Encuentro de Becados - Toolkit Python </a> 
-
 
 <!--
 **lauralpezb/lauralpezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
