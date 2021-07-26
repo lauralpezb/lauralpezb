@@ -18,6 +18,7 @@ I'm a telecommunications Engineer and I'm currently learning data science.
 
 
 ### Talks 🎙️
+- Python Bucaramanga: <a href="https://youtu.be/FTI3N6bqR9g"> Al mal tiempo, buena data. Limpieza de datos con Python </a>
 - EnPixeles: <a href="https://open.spotify.com/episode/3ukBZHw0i74yKmWb4JWrbq?si=MANC1RKcS3SbD2lcyeXsyw"> Panel | Lo Bueno, lo Malo y lo Feo del Data Science e IA </a> 
 - EnPixeles: <a href="https://open.spotify.com/episode/0Q6EHswdn094pfoWcwiqHC?si=WgeiqOhqSE6efIJ8crMWwg"> ¿Cómo motivarse para ser Data Science? </a> 
 - Data Science Fem: <a href="https://youtu.be/65TZ7MtD5lI?t=1903"> Encuentro de Becados - Toolkit Python </a> 
