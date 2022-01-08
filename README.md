@@ -12,10 +12,11 @@ I'm a telecommunications Engineer and I'm currently learning data science.
 
 ### My Skills 📑
 - Python
-- R
 - SQL
+- PySpark
+- NLP
+- AWS
 - Power BI / Tableau / Google Data Studio
-
 
 ### Talks 🎙️
 - Python Brasil: <a href="https://www.youtube.com/watch?v=twLG0l6VIUc&t=2s"> Al mal tiempo, buena data. Limpieza de datos con Python </a>
