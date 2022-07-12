@@ -18,13 +18,6 @@ I'm a telecommunications Engineer and I'm currently learning data science.
 - AWS
 - Power BI / Tableau / Google Data Studio
 
-### Talks 🎙️
-- Python Brasil: <a href="https://www.youtube.com/watch?v=twLG0l6VIUc&t=2s"> Al mal tiempo, buena data. Limpieza de datos con Python </a>
-- WiDS Medellín 2021: <a href="https://youtu.be/Fll5zMZHM-c?t=5488"> ETL en nube: Un nuevo entorno para nuestros datos </a>
-- Python Bucaramanga: <a href="https://youtu.be/FTI3N6bqR9g"> Al mal tiempo, buena data. Limpieza de datos con Python </a>
-- EnPixeles: <a href="https://open.spotify.com/episode/3ukBZHw0i74yKmWb4JWrbq?si=MANC1RKcS3SbD2lcyeXsyw"> Panel | Lo Bueno, lo Malo y lo Feo del Data Science e IA </a> 
-- EnPixeles: <a href="https://open.spotify.com/episode/0Q6EHswdn094pfoWcwiqHC?si=WgeiqOhqSE6efIJ8crMWwg"> ¿Cómo motivarse para ser Data Science? </a> 
-- Data Science Fem: <a href="https://youtu.be/65TZ7MtD5lI?t=1903"> Encuentro de Becados - Toolkit Python </a> 
 
 <!--
 **lauralpezb/lauralpezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
