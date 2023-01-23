@@ -1,22 +1,19 @@
-![Header](https://github.com/lauralpezb/lauralpezb/blob/main/Banner%20GitHub.png "Header")
-
 ## Hi there 👋
 
 Welcome to my repository! 
 
-I'm a telecommunications Engineer and I'm currently learning data science.
+I'm a Data Scientist and Telecommunications Engineer.
 
-- 📑 I have a blog where I write about DS, basics and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data </a> 
+- 📑 I have a blog where I write about Data Science, basics and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data</a> 
 - 📷 I like photography, here you can find some <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
 
 
 ### My Skills 📑
-- Python
+- Python (Pandas, Numpy, Matplotlib, Plotly, Seaborn, Scikit-Learn, NLTK, PySpark)
 - SQL
-- PySpark
-- NLP
 - AWS
 - Power BI / Tableau / Google Data Studio
+- NLP (Text cleaning, sentiment analysis (Beto), entities (NER, POS) and Latent Dirichlet Allocation (LDA))
 
 
 <!--
