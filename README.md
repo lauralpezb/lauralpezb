@@ -8,7 +8,7 @@ I'm a Data Scientist and Telecommunications Engineer.
 - 📷 I like photography, here you can find some <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
 
 
-### My Skills 📑
+### Skills 📑
 - Python (Pandas, Numpy, Matplotlib, Plotly, Seaborn, Scikit-Learn, NLTK, PySpark)
 - SQL
 - AWS
