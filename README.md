@@ -2,10 +2,9 @@
 
 Welcome to my repository! 
 
-I'm a Data Scientist and Telecommunications Engineer.
+I'm a Data Scientist.
 
 - 📑 I have a blog where I write about Data Science, basics and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data</a> 
-- 📷 I like photography, here you can find some <a href="https://vsco.co/lauralpezb/gallery">Photography lover</a> 
 
 
 ### Skills 📑
