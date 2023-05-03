@@ -2,12 +2,12 @@
 
 Welcome to my repository! 
 
-I'm a Data Scientist.
+I'm currently working as a Data scientist.
 
-- 📑 I have a blog where I write about Data Science, basics and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data</a> 
+📑 I have a blog where I write about Data Science, Python and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data</a> 
 
 
-### Skills 📑
+### Skills 
 - Python (Pandas, Numpy, Matplotlib, Plotly, Seaborn, Scikit-Learn, NLTK, PySpark)
 - SQL
 - AWS
