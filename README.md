@@ -2,7 +2,7 @@
 
 Welcome to my repository! 
 
-I'm currently working as a Data scientist.
+I'm currently working as a Data Science Engineer.
 
 📑 I have a blog where I write about Data Science, Python and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data</a> 
 
