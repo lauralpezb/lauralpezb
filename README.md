@@ -1,18 +1,42 @@
 ## Hi there 👋
 
-Welcome to my repository! 
+Welcome to my GitHub profile!  
 
-I'm currently working as a Data Science Engineer.
+I'm Laura, a DS/ML Engineer passionate about building data-driven solutions with Python, Machine Learning, and NLP. I enjoy working on projects related to AI, analytics, automation, and scalable data systems.
 
-📑 I have a blog where I write about Data Science, Python and how-to guides for using tools <a href="https://lauralpezb.medium.com">Al mal tiempo, buena data</a> 
+📑 I also write about Data Science, Python, AI, and tech tutorials on my blog:  
+<a href="https://lauralpezb.medium.com">Al mal tiempo, buena data</a>
 
+---
 
-### Skills 
-- Python (Pandas, Numpy, Matplotlib, Plotly, Seaborn, Scikit-Learn, NLTK, PySpark)
-- SQL
-- AWS
-- Power BI / Tableau / Google Data Studio
-- NLP (Text cleaning, sentiment analysis (Beto), entities (NER, POS) and Latent Dirichlet Allocation (LDA))
+### 🚀 Skills
+
+- **Programming & Data:**  
+  Python, SQL, PySpark
+
+- **Python Libraries:**  
+  Pandas, NumPy, Matplotlib, Plotly, Seaborn, Scikit-Learn, NLTK
+
+- **Cloud & Tools:**  
+  AWS, Docker, MLflow
+
+- **Data Visualization:**  
+  Power BI, Tableau, Google Data Studio / Looker Studio
+
+- **Machine Learning & NLP:**  
+  Sentiment Analysis (BETO), NER, POS Tagging, Topic Modeling (LDA), Text Cleaning
+
+---
+
+### 🌱 Currently interested in
+
+- MLOps & scalable ML systems  
+- NLP & Generative AI  
+- Recommendation and uplift models  
+- Data storytelling & visualization  
+- AI applications for content and media
+
+Thanks for visiting my profile ✨
 
 
 <!--
